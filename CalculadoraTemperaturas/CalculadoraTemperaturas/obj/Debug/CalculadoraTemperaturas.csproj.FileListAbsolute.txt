@@ -1,0 +1,10 @@
+E:\c#\CalculadoraTemperaturas\CalculadoraTemperaturas\bin\Debug\CalculadoraTemperaturas.exe.config
+E:\c#\CalculadoraTemperaturas\CalculadoraTemperaturas\bin\Debug\CalculadoraTemperaturas.exe
+E:\c#\CalculadoraTemperaturas\CalculadoraTemperaturas\bin\Debug\CalculadoraTemperaturas.pdb
+E:\c#\CalculadoraTemperaturas\CalculadoraTemperaturas\obj\Debug\CalculadoraTemperaturas.csproj.AssemblyReference.cache
+E:\c#\CalculadoraTemperaturas\CalculadoraTemperaturas\obj\Debug\CalculadoraTemperaturas.Form1.resources
+E:\c#\CalculadoraTemperaturas\CalculadoraTemperaturas\obj\Debug\CalculadoraTemperaturas.Properties.Resources.resources
+E:\c#\CalculadoraTemperaturas\CalculadoraTemperaturas\obj\Debug\CalculadoraTemperaturas.csproj.GenerateResource.cache
+E:\c#\CalculadoraTemperaturas\CalculadoraTemperaturas\obj\Debug\CalculadoraTemperaturas.csproj.CoreCompileInputs.cache
+E:\c#\CalculadoraTemperaturas\CalculadoraTemperaturas\obj\Debug\CalculadoraTemperaturas.exe
+E:\c#\CalculadoraTemperaturas\CalculadoraTemperaturas\obj\Debug\CalculadoraTemperaturas.pdb
