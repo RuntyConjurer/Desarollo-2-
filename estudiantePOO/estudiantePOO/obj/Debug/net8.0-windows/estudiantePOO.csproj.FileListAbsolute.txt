@@ -1,0 +1,16 @@
+E:\c#\estudiantePOO\estudiantePOO\bin\Debug\net8.0-windows\estudiantePOO.exe
+E:\c#\estudiantePOO\estudiantePOO\bin\Debug\net8.0-windows\estudiantePOO.deps.json
+E:\c#\estudiantePOO\estudiantePOO\bin\Debug\net8.0-windows\estudiantePOO.runtimeconfig.json
+E:\c#\estudiantePOO\estudiantePOO\bin\Debug\net8.0-windows\estudiantePOO.dll
+E:\c#\estudiantePOO\estudiantePOO\bin\Debug\net8.0-windows\estudiantePOO.pdb
+E:\c#\estudiantePOO\estudiantePOO\obj\Debug\net8.0-windows\estudiantePOO.Form1.resources
+E:\c#\estudiantePOO\estudiantePOO\obj\Debug\net8.0-windows\estudiantePOO.csproj.GenerateResource.cache
+E:\c#\estudiantePOO\estudiantePOO\obj\Debug\net8.0-windows\estudiantePOO.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\estudiantePOO\estudiantePOO\obj\Debug\net8.0-windows\estudiantePOO.AssemblyInfoInputs.cache
+E:\c#\estudiantePOO\estudiantePOO\obj\Debug\net8.0-windows\estudiantePOO.AssemblyInfo.cs
+E:\c#\estudiantePOO\estudiantePOO\obj\Debug\net8.0-windows\estudiantePOO.csproj.CoreCompileInputs.cache
+E:\c#\estudiantePOO\estudiantePOO\obj\Debug\net8.0-windows\estudiantePOO.dll
+E:\c#\estudiantePOO\estudiantePOO\obj\Debug\net8.0-windows\refint\estudiantePOO.dll
+E:\c#\estudiantePOO\estudiantePOO\obj\Debug\net8.0-windows\estudiantePOO.pdb
+E:\c#\estudiantePOO\estudiantePOO\obj\Debug\net8.0-windows\estudiantePOO.genruntimeconfig.cache
+E:\c#\estudiantePOO\estudiantePOO\obj\Debug\net8.0-windows\ref\estudiantePOO.dll
