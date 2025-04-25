@@ -1,0 +1,16 @@
+E:\c#\aplicacionInformeVentas\aplicacionInformeVentas\obj\Debug\net8.0-windows\aplicacionInformeVentas.Form1.resources
+E:\c#\aplicacionInformeVentas\aplicacionInformeVentas\obj\Debug\net8.0-windows\aplicacionInformeVentas.csproj.GenerateResource.cache
+E:\c#\aplicacionInformeVentas\aplicacionInformeVentas\obj\Debug\net8.0-windows\aplicacionInformeVentas.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\aplicacionInformeVentas\aplicacionInformeVentas\obj\Debug\net8.0-windows\aplicacionInformeVentas.AssemblyInfoInputs.cache
+E:\c#\aplicacionInformeVentas\aplicacionInformeVentas\obj\Debug\net8.0-windows\aplicacionInformeVentas.AssemblyInfo.cs
+E:\c#\aplicacionInformeVentas\aplicacionInformeVentas\obj\Debug\net8.0-windows\aplicacionInformeVentas.csproj.CoreCompileInputs.cache
+E:\c#\aplicacionInformeVentas\aplicacionInformeVentas\bin\Debug\net8.0-windows\aplicacionInformeVentas.exe
+E:\c#\aplicacionInformeVentas\aplicacionInformeVentas\bin\Debug\net8.0-windows\aplicacionInformeVentas.deps.json
+E:\c#\aplicacionInformeVentas\aplicacionInformeVentas\bin\Debug\net8.0-windows\aplicacionInformeVentas.runtimeconfig.json
+E:\c#\aplicacionInformeVentas\aplicacionInformeVentas\bin\Debug\net8.0-windows\aplicacionInformeVentas.dll
+E:\c#\aplicacionInformeVentas\aplicacionInformeVentas\bin\Debug\net8.0-windows\aplicacionInformeVentas.pdb
+E:\c#\aplicacionInformeVentas\aplicacionInformeVentas\obj\Debug\net8.0-windows\aplicacionInformeVentas.dll
+E:\c#\aplicacionInformeVentas\aplicacionInformeVentas\obj\Debug\net8.0-windows\refint\aplicacionInformeVentas.dll
+E:\c#\aplicacionInformeVentas\aplicacionInformeVentas\obj\Debug\net8.0-windows\aplicacionInformeVentas.pdb
+E:\c#\aplicacionInformeVentas\aplicacionInformeVentas\obj\Debug\net8.0-windows\aplicacionInformeVentas.genruntimeconfig.cache
+E:\c#\aplicacionInformeVentas\aplicacionInformeVentas\obj\Debug\net8.0-windows\ref\aplicacionInformeVentas.dll
