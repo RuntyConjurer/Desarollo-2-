@@ -1,0 +1,16 @@
+C:\Users\Angelo\source\repos\linkedLists\linkedLists\bin\Debug\net8.0-windows\linkedLists.exe
+C:\Users\Angelo\source\repos\linkedLists\linkedLists\bin\Debug\net8.0-windows\linkedLists.deps.json
+C:\Users\Angelo\source\repos\linkedLists\linkedLists\bin\Debug\net8.0-windows\linkedLists.runtimeconfig.json
+C:\Users\Angelo\source\repos\linkedLists\linkedLists\bin\Debug\net8.0-windows\linkedLists.dll
+C:\Users\Angelo\source\repos\linkedLists\linkedLists\bin\Debug\net8.0-windows\linkedLists.pdb
+C:\Users\Angelo\source\repos\linkedLists\linkedLists\obj\Debug\net8.0-windows\linkedLists.Form1.resources
+C:\Users\Angelo\source\repos\linkedLists\linkedLists\obj\Debug\net8.0-windows\linkedLists.csproj.GenerateResource.cache
+C:\Users\Angelo\source\repos\linkedLists\linkedLists\obj\Debug\net8.0-windows\linkedLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelo\source\repos\linkedLists\linkedLists\obj\Debug\net8.0-windows\linkedLists.AssemblyInfoInputs.cache
+C:\Users\Angelo\source\repos\linkedLists\linkedLists\obj\Debug\net8.0-windows\linkedLists.AssemblyInfo.cs
+C:\Users\Angelo\source\repos\linkedLists\linkedLists\obj\Debug\net8.0-windows\linkedLists.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\source\repos\linkedLists\linkedLists\obj\Debug\net8.0-windows\linkedLists.dll
+C:\Users\Angelo\source\repos\linkedLists\linkedLists\obj\Debug\net8.0-windows\refint\linkedLists.dll
+C:\Users\Angelo\source\repos\linkedLists\linkedLists\obj\Debug\net8.0-windows\linkedLists.pdb
+C:\Users\Angelo\source\repos\linkedLists\linkedLists\obj\Debug\net8.0-windows\linkedLists.genruntimeconfig.cache
+C:\Users\Angelo\source\repos\linkedLists\linkedLists\obj\Debug\net8.0-windows\ref\linkedLists.dll
