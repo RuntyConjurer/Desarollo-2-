@@ -1,0 +1,241 @@
+C:\Users\joela\OneDrive\Practicar C#\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\joela\OneDrive\Practicar C#\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\joela\OneDrive\Practicar C#\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\joela\OneDrive\Practicar C#\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidad.dll
+C:\Users\joela\OneDrive\Practicar C#\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocios.dll
+C:\Users\joela\OneDrive\Practicar C#\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\joela\OneDrive\Practicar C#\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidad.pdb
+C:\Users\joela\OneDrive\Practicar C#\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocios.pdb
+C:\Users\joela\OneDrive\Practicar C#\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\joela\OneDrive\Practicar C#\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\joela\OneDrive\Practicar C#\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\joela\OneDrive\Practicar C#\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\joela\OneDrive\Practicar C#\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\joela\OneDrive\Practicar C#\Sistema\Sistema.Presentacion\obj\Debug\Sistema..85659DAB.Up2Date
+C:\Users\joela\OneDrive\Practicar C#\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\joela\OneDrive\Practicar C#\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\joela\OneDrive\Practicar C#\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategorias.resources
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidad.dll
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocios.dll
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidad.pdb
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocios.pdb
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategorias.resources
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema..85659DAB.Up2Date
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulos.resources
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.frmPrincipal.resources
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmRol.resources
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmUsuario.resources
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmProveedores.resources
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmClientes.resources
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmIngreso.resources
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVistaProveedores.resources
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmMostrarArticulos.resources
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVentas.resources
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVistaClientes.resources
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidad.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocios.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidad.pdb
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocios.pdb
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulos.resources
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategorias.resources
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmClientes.resources
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmIngreso.resources
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmMostrarArticulos.resources
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.frmPrincipal.resources
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmProveedores.resources
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmRol.resources
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmUsuario.resources
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVentas.resources
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVistaClientes.resources
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVistaProveedores.resources
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema..85659DAB.Up2Date
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\libSkiaSharp.dylib
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\x64\libSkiaSharp.so
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\arm\libSkiaSharp.so
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\BarcodeStandard.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\SkiaSharp.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Drawing.Common.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Resources.Extensions.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidad.dll.config
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocios.dll.config
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\SkiaSharp.pdb
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\SkiaSharp.xml
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.xml
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.xml
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Resources.Extensions.xml
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.xml
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.xml
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll.config
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\libSkiaSharp.dylib
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\x64\libSkiaSharp.so
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\arm\libSkiaSharp.so
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\BarcodeStandard.dll
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidad.dll
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocios.dll
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\SkiaSharp.dll
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.dll
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Drawing.Common.dll
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.dll
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Resources.Extensions.dll
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.dll
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.dll
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidad.pdb
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidad.dll.config
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocios.pdb
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocios.dll.config
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\SkiaSharp.pdb
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\SkiaSharp.xml
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.xml
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.xml
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Resources.Extensions.xml
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.xml
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.xml
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll.config
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulos.resources
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategorias.resources
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmClientes.resources
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmIngreso.resources
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmMostrarArticulos.resources
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.frmPrincipal.resources
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmProveedores.resources
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmRol.resources
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmUsuario.resources
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVentas.resources
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVistaClientes.resources
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVistaProveedores.resources
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema..85659DAB.Up2Date
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\baril\OneDrive\Desktop\Sistema2 (3)\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\libSkiaSharp.dylib
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\x64\libSkiaSharp.so
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\arm\libSkiaSharp.so
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\BarcodeStandard.dll
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidad.dll
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocios.dll
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\SkiaSharp.dll
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.dll
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Drawing.Common.dll
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.dll
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Resources.Extensions.dll
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.dll
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.dll
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidad.pdb
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidad.dll.config
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocios.pdb
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocios.dll.config
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\SkiaSharp.pdb
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\SkiaSharp.xml
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.xml
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.xml
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Resources.Extensions.xml
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.xml
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.xml
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll.config
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulos.resources
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategorias.resources
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmClientes.resources
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmIngreso.resources
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmMostrarArticulos.resources
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.frmPrincipal.resources
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmProveedores.resources
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmRol.resources
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmUsuario.resources
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVentas.resources
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVistaClientes.resources
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVistaProveedores.resources
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema..85659DAB.Up2Date
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\Angelo\Downloads\Sistema Bari\Sistema Bari\Sistema2\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb

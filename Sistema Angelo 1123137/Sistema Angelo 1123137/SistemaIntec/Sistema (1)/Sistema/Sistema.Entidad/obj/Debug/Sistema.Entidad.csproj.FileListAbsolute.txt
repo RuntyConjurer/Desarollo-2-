@@ -1,0 +1,53 @@
+C:\Users\joela\OneDrive\Practicar C#\Sistema\Sistema.Entidad\bin\Debug\Sistema.Entidad.dll
+C:\Users\joela\OneDrive\Practicar C#\Sistema\Sistema.Entidad\bin\Debug\Sistema.Entidad.pdb
+C:\Users\joela\OneDrive\Practicar C#\Sistema\Sistema.Entidad\obj\Debug\Sistema.Entidad.csproj.AssemblyReference.cache
+C:\Users\joela\OneDrive\Practicar C#\Sistema\Sistema.Entidad\obj\Debug\Sistema.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\joela\OneDrive\Practicar C#\Sistema\Sistema.Entidad\obj\Debug\Sistema.Entidad.dll
+C:\Users\joela\OneDrive\Practicar C#\Sistema\Sistema.Entidad\obj\Debug\Sistema.Entidad.pdb
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\Sistema.Entidad.dll
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\Sistema.Entidad.pdb
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Entidad\obj\Debug\Sistema.Entidad.csproj.AssemblyReference.cache
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Entidad\obj\Debug\Sistema.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Entidad\obj\Debug\Sistema.Entidad.dll
+C:\Users\Guz_n\OneDrive\Escritorio\Sistema (1)\Sistema\Sistema.Entidad\obj\Debug\Sistema.Entidad.pdb
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\libSkiaSharp.dylib
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\x64\libSkiaSharp.so
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\arm\libSkiaSharp.so
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\Sistema.Entidad.dll.config
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\Sistema.Entidad.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\Sistema.Entidad.pdb
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\BarcodeStandard.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\SkiaSharp.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\System.Buffers.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\System.Memory.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\System.Resources.Extensions.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\System.Text.Json.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\System.ValueTuple.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\SkiaSharp.pdb
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\SkiaSharp.xml
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\System.Buffers.xml
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\System.Memory.xml
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\System.Resources.Extensions.xml
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\System.Text.Json.xml
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\System.ValueTuple.xml
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\obj\Debug\Sistema.Entidad.csproj.AssemblyReference.cache
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\obj\Debug\Sistema.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\obj\Debug\Sistema..BA6C31E1.Up2Date
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\obj\Debug\Sistema.Entidad.dll
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\obj\Debug\Sistema.Entidad.pdb
+C:\Users\FertecoPC\Documents\INTEC\Desarrollo 2\Laboratorio\Sistema2\Sistema (1)\Sistema\Sistema.Entidad\bin\Debug\System.Drawing.Common.dll

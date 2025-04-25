@@ -1,0 +1,930 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD53E66A-9A70-4E91-A20D-EAEAB80A7D22}|Sistema.Datos\\Sistema.Datos.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.datos\\dlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD53E66A-9A70-4E91-A20D-EAEAB80A7D22}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\dlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD53E66A-9A70-4E91-A20D-EAEAB80A7D22}|Sistema.Datos\\Sistema.Datos.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD53E66A-9A70-4E91-A20D-EAEAB80A7D22}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|c:\\users\\baril\\onedrive\\desktop\\sistema2 (3)\\sistema2\\sistema (1)\\sistema\\sistema.presentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Guz_n\\OneDrive\\Escritorio\\Tarea de desarrollo de software 2\\Listas\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69451C7-2199-40A0-8C7D-197EE4944C3F}|Sistema.Negocios\\Sistema.Negocios.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.negocios\\nrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69451C7-2199-40A0-8C7D-197EE4944C3F}|Sistema.Negocios\\Sistema.Negocios.csproj|solutionrelative:sistema.negocios\\nrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69451C7-2199-40A0-8C7D-197EE4944C3F}|Sistema.Negocios\\Sistema.Negocios.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.negocios\\ningreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69451C7-2199-40A0-8C7D-197EE4944C3F}|Sistema.Negocios\\Sistema.Negocios.csproj|solutionrelative:sistema.negocios\\ningreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD53E66A-9A70-4E91-A20D-EAEAB80A7D22}|Sistema.Datos\\Sistema.Datos.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.datos\\dventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD53E66A-9A70-4E91-A20D-EAEAB80A7D22}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\dventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmarticulos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmarticulos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Sistema.Presentacion||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD53E66A-9A70-4E91-A20D-EAEAB80A7D22}|Sistema.Datos\\Sistema.Datos.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.datos\\dusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD53E66A-9A70-4E91-A20D-EAEAB80A7D22}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\dusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD53E66A-9A70-4E91-A20D-EAEAB80A7D22}|Sistema.Datos\\Sistema.Datos.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.datos\\dcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD53E66A-9A70-4E91-A20D-EAEAB80A7D22}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\dcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD53E66A-9A70-4E91-A20D-EAEAB80A7D22}|Sistema.Datos\\Sistema.Datos.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.datos\\darticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD53E66A-9A70-4E91-A20D-EAEAB80A7D22}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\darticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD53E66A-9A70-4E91-A20D-EAEAB80A7D22}|Sistema.Datos\\Sistema.Datos.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.datos\\drol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD53E66A-9A70-4E91-A20D-EAEAB80A7D22}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\drol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD53E66A-9A70-4E91-A20D-EAEAB80A7D22}|Sistema.Datos\\Sistema.Datos.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.datos\\dpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD53E66A-9A70-4E91-A20D-EAEAB80A7D22}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\dpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD53E66A-9A70-4E91-A20D-EAEAB80A7D22}|Sistema.Datos\\Sistema.Datos.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.datos\\dingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD53E66A-9A70-4E91-A20D-EAEAB80A7D22}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\dingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69451C7-2199-40A0-8C7D-197EE4944C3F}|Sistema.Negocios\\Sistema.Negocios.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.negocios\\nusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69451C7-2199-40A0-8C7D-197EE4944C3F}|Sistema.Negocios\\Sistema.Negocios.csproj|solutionrelative:sistema.negocios\\nusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7CDFFD-9125-4663-8D23-3CE219469BC4}|Sistema.Entidad\\Sistema.Entidad.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.entidad\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7CDFFD-9125-4663-8D23-3CE219469BC4}|Sistema.Entidad\\Sistema.Entidad.csproj|solutionrelative:sistema.entidad\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69451C7-2199-40A0-8C7D-197EE4944C3F}|Sistema.Negocios\\Sistema.Negocios.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.negocios\\npersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69451C7-2199-40A0-8C7D-197EE4944C3F}|Sistema.Negocios\\Sistema.Negocios.csproj|solutionrelative:sistema.negocios\\npersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmvistaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmvistaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmvistaproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmvistaproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69451C7-2199-40A0-8C7D-197EE4944C3F}|Sistema.Negocios\\Sistema.Negocios.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.negocios\\nventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69451C7-2199-40A0-8C7D-197EE4944C3F}|Sistema.Negocios\\Sistema.Negocios.csproj|solutionrelative:sistema.negocios\\nventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7CDFFD-9125-4663-8D23-3CE219469BC4}|Sistema.Entidad\\Sistema.Entidad.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.entidad\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7CDFFD-9125-4663-8D23-3CE219469BC4}|Sistema.Entidad\\Sistema.Entidad.csproj|solutionrelative:sistema.entidad\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7CDFFD-9125-4663-8D23-3CE219469BC4}|Sistema.Entidad\\Sistema.Entidad.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.entidad\\ingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7CDFFD-9125-4663-8D23-3CE219469BC4}|Sistema.Entidad\\Sistema.Entidad.csproj|solutionrelative:sistema.entidad\\ingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7CDFFD-9125-4663-8D23-3CE219469BC4}|Sistema.Entidad\\Sistema.Entidad.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.entidad\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7CDFFD-9125-4663-8D23-3CE219469BC4}|Sistema.Entidad\\Sistema.Entidad.csproj|solutionrelative:sistema.entidad\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmvistaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmvistaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmvistaproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmvistaproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmmostrararticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmmostrararticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.presentacion\\frmmostrararticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B56BDE2A-E3C1-43EB-9A86-251AFF6A9733}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmmostrararticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69451C7-2199-40A0-8C7D-197EE4944C3F}|Sistema.Negocios\\Sistema.Negocios.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.negocios\\nlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69451C7-2199-40A0-8C7D-197EE4944C3F}|Sistema.Negocios\\Sistema.Negocios.csproj|solutionrelative:sistema.negocios\\nlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69451C7-2199-40A0-8C7D-197EE4944C3F}|Sistema.Negocios\\Sistema.Negocios.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.negocios\\narticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69451C7-2199-40A0-8C7D-197EE4944C3F}|Sistema.Negocios\\Sistema.Negocios.csproj|solutionrelative:sistema.negocios\\narticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7CDFFD-9125-4663-8D23-3CE219469BC4}|Sistema.Entidad\\Sistema.Entidad.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.entidad\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7CDFFD-9125-4663-8D23-3CE219469BC4}|Sistema.Entidad\\Sistema.Entidad.csproj|solutionrelative:sistema.entidad\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Guz_n\\Downloads\\capas\\New folder\\NIngreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD53E66A-9A70-4E91-A20D-EAEAB80A7D22}|Sistema.Datos\\Sistema.Datos.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.datos\\dnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD53E66A-9A70-4E91-A20D-EAEAB80A7D22}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\dnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Guz_n\\Downloads\\capas\\New folder\\DIngreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Guz_n\\Downloads\\capas\\New folder\\Ingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7CDFFD-9125-4663-8D23-3CE219469BC4}|Sistema.Entidad\\Sistema.Entidad.csproj|C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\sistema.entidad\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7CDFFD-9125-4663-8D23-3CE219469BC4}|Sistema.Entidad\\Sistema.Entidad.csproj|solutionrelative:sistema.entidad\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Entidad\\Categoria.cs",
+              "RelativeDocumentMoniker": "Sistema.Entidad\\Categoria.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Entidad\\Categoria.cs",
+              "RelativeToolTip": "Sistema.Entidad\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:36:39.624Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmArticulos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmArticulos.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmArticulos.cs",
+              "ToolTip": "C:\\Users\\FertecoPC\\Documents\\INTEC\\Desarrollo 2\\Laboratorio\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmArticulos.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\FertecoPC\\Documents\\INTEC\\Desarrollo 2\\Laboratorio\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmArticulos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:01:52.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\FertecoPC\\Documents\\INTEC\\Desarrollo 2\\Laboratorio\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\frmPrincipal.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\FertecoPC\\Documents\\INTEC\\Desarrollo 2\\Laboratorio\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\frmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:32:43.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\frmPrincipal.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\frmPrincipal.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAowPIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:31:43.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Datos\\Conexion.cs",
+              "RelativeToolTip": "Sistema.Datos\\Conexion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T20:30:48.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DLogin.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Datos\\DLogin.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DLogin.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Datos\\DLogin.cs",
+              "RelativeToolTip": "Sistema.Datos\\DLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:38:40.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmVentas.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmVentas.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:39:25.839Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmVentas.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmVentas.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmVentas.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmVentas.cs*",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmVentas.cs*",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAswHEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:43:00.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\FertecoPC\\Documents\\INTEC\\Desarrollo 2\\Laboratorio\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\FertecoPC\\Documents\\INTEC\\Desarrollo 2\\Laboratorio\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:43:40.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DVentas.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Datos\\DVentas.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DVentas.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Datos\\DVentas.cs",
+              "RelativeToolTip": "Sistema.Datos\\DVentas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:03:29.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DRol.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Datos\\DRol.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DRol.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Datos\\DRol.cs",
+              "RelativeToolTip": "Sistema.Datos\\DRol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:25:50.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmIngreso.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmIngreso.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmIngreso.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmIngreso.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmIngreso.cs",
+              "ViewState": "AgIAAC4BAAAAAAAAAAAlwEABAAAbAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:46:49.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NIngreso.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Negocios\\NIngreso.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocios\\NIngreso.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Negocios\\NIngreso.cs",
+              "RelativeToolTip": "Sistema.Negocios\\NIngreso.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAD4vyQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:54:23.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmCategorias.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmCategorias.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmCategorias.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmCategorias.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmCategorias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T21:45:14.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmArticulos.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmArticulos.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmArticulos.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmArticulos.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmArticulos.cs",
+              "ViewState": "AgIAABYCAAAAAAAAAIAywCgCAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:01:54.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmArticulos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmArticulos.Designer.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmArticulos.Designer.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmArticulos.Designer.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmArticulos.Designer.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAtwNkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:47:41.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Sistema.Presentacion",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\Sistema.Presentacion.csproj",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\Sistema.Presentacion.csproj",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\Sistema.Presentacion.csproj",
+              "RelativeToolTip": "Sistema.Presentacion\\Sistema.Presentacion.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-03T00:29:02.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Datos\\DUsuario.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DUsuario.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Datos\\DUsuario.cs",
+              "RelativeToolTip": "Sistema.Datos\\DUsuario.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAWwBoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:08:07.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmLogin.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmLogin.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:54:56.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Datos\\DArticulo.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DArticulo.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Datos\\DArticulo.cs",
+              "RelativeToolTip": "Sistema.Datos\\DArticulo.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAArwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:39:49.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DCategorias.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Datos\\DCategorias.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DCategorias.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Datos\\DCategorias.cs",
+              "RelativeToolTip": "Sistema.Datos\\DCategorias.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAewB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:40:45.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\Program.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:34:59.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmCategorias.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmCategorias.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmCategorias.cs",
+              "ToolTip": "C:\\Users\\FertecoPC\\Documents\\INTEC\\Desarrollo 2\\Laboratorio\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmCategorias.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\FertecoPC\\Documents\\INTEC\\Desarrollo 2\\Laboratorio\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmCategorias.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T19:18:05.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DPersona.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Datos\\DPersona.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DPersona.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Datos\\DPersona.cs",
+              "RelativeToolTip": "Sistema.Datos\\DPersona.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAewE8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T22:36:57.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DIngreso.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Datos\\DIngreso.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DIngreso.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Datos\\DIngreso.cs",
+              "RelativeToolTip": "Sistema.Datos\\DIngreso.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAewBYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:02:43.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmProveedores.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmProveedores.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmProveedores.cs",
+              "ToolTip": "C:\\Users\\FertecoPC\\Documents\\INTEC\\Desarrollo 2\\Laboratorio\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmProveedores.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\FertecoPC\\Documents\\INTEC\\Desarrollo 2\\Laboratorio\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmProveedores.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:14:33.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FrmProveedores.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmProveedores.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmProveedores.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmProveedores.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmProveedores.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowD8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:53:37.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FrmUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmUsuario.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmUsuario.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmUsuario.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmUsuario.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwD4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T00:56:28.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmIngreso.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmIngreso.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmIngreso.cs",
+              "ToolTip": "C:\\Users\\FertecoPC\\Documents\\INTEC\\Desarrollo 2\\Laboratorio\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmIngreso.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\FertecoPC\\Documents\\INTEC\\Desarrollo 2\\Laboratorio\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmIngreso.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:16:21.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FrmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmClientes.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmClientes.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:54:10.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Entidad\\Usuario.cs",
+              "RelativeDocumentMoniker": "Sistema.Entidad\\Usuario.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Entidad\\Usuario.cs",
+              "RelativeToolTip": "Sistema.Entidad\\Usuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:07:47.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrmUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmUsuario.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmUsuario.cs",
+              "ToolTip": "C:\\Users\\FertecoPC\\Documents\\INTEC\\Desarrollo 2\\Laboratorio\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmUsuario.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\FertecoPC\\Documents\\INTEC\\Desarrollo 2\\Laboratorio\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:02:12.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:14:37.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Guz_n\\OneDrive\\Escritorio\\Tarea de desarrollo de software 2\\Listas\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Guz_n\\OneDrive\\Escritorio\\Tarea de desarrollo de software 2\\Listas\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Guz_n\\OneDrive\\Escritorio\\Tarea de desarrollo de software 2\\Listas\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Guz_n\\OneDrive\\Escritorio\\Tarea de desarrollo de software 2\\Listas\\Form1.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:34:17.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Nusuario.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Negocios\\Nusuario.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocios\\Nusuario.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Negocios\\Nusuario.cs",
+              "RelativeToolTip": "Sistema.Negocios\\Nusuario.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwBsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:10:57.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "NPersona.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Negocios\\NPersona.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocios\\NPersona.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Negocios\\NPersona.cs",
+              "RelativeToolTip": "Sistema.Negocios\\NPersona.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:51:38.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FrmVistaClientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmVistaClientes.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmVistaClientes.cs",
+              "ToolTip": "C:\\Users\\FertecoPC\\Documents\\INTEC\\Desarrollo 2\\Laboratorio\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmVistaClientes.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\FertecoPC\\Documents\\INTEC\\Desarrollo 2\\Laboratorio\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmVistaClientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T01:35:59.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FrmVistaProveedores.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmVistaProveedores.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmVistaProveedores.cs",
+              "ToolTip": "C:\\Users\\FertecoPC\\Documents\\INTEC\\Desarrollo 2\\Laboratorio\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmVistaProveedores.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\FertecoPC\\Documents\\INTEC\\Desarrollo 2\\Laboratorio\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmVistaProveedores.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:36:06.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Variables.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\Variables.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\Variables.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\Variables.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\Variables.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:58:50.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "NVentas.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Negocios\\NVentas.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocios\\NVentas.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Negocios\\NVentas.cs",
+              "RelativeToolTip": "Sistema.Negocios\\NVentas.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAMwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:03:39.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Entidad\\Ventas.cs",
+              "RelativeDocumentMoniker": "Sistema.Entidad\\Ventas.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Entidad\\Ventas.cs",
+              "RelativeToolTip": "Sistema.Entidad\\Ventas.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAASwBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:59:59.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FrmRol.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmRol.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmRol.cs",
+              "ToolTip": "C:\\Users\\FertecoPC\\Documents\\INTEC\\Desarrollo 2\\Laboratorio\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmRol.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\FertecoPC\\Documents\\INTEC\\Desarrollo 2\\Laboratorio\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmRol.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:18:53.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Entidad\\Articulo.cs",
+              "RelativeDocumentMoniker": "Sistema.Entidad\\Articulo.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Entidad\\Articulo.cs",
+              "RelativeToolTip": "Sistema.Entidad\\Articulo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:36:43.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Ingreso.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Entidad\\Ingreso.cs",
+              "RelativeDocumentMoniker": "Sistema.Entidad\\Ingreso.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Entidad\\Ingreso.cs",
+              "RelativeToolTip": "Sistema.Entidad\\Ingreso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:54:13.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FrmVistaProveedores.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmVistaProveedores.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmVistaProveedores.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmVistaProveedores.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmVistaProveedores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:40:39.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FrmVistaClientes.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmVistaClientes.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmVistaClientes.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmVistaClientes.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmVistaClientes.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAMwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:06:08.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FrmMostrarArticulos.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmMostrarArticulos.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmMostrarArticulos.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmMostrarArticulos.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmMostrarArticulos.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwD8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T23:43:41.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FrmMostrarArticulos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmMostrarArticulos.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmMostrarArticulos.cs",
+              "ToolTip": "C:\\Users\\FertecoPC\\Documents\\INTEC\\Desarrollo 2\\Laboratorio\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmMostrarArticulos.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\FertecoPC\\Documents\\INTEC\\Desarrollo 2\\Laboratorio\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\FrmMostrarArticulos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T23:37:46.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "NLogin.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Negocios\\NLogin.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocios\\NLogin.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Negocios\\NLogin.cs",
+              "RelativeToolTip": "Sistema.Negocios\\NLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:41:41.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "NArticulos.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Negocios\\NArticulos.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocios\\NArticulos.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Negocios\\NArticulos.cs",
+              "RelativeToolTip": "Sistema.Negocios\\NArticulos.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAApwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:11:30.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Entidad\\Persona.cs",
+              "RelativeDocumentMoniker": "Sistema.Entidad\\Persona.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Entidad\\Persona.cs",
+              "RelativeToolTip": "Sistema.Entidad\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T22:34:49.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Datos\\DNegocio.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DNegocio.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Datos\\DNegocio.cs",
+              "RelativeToolTip": "Sistema.Datos\\DNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T22:40:41.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "NIngreso.cs",
+              "DocumentMoniker": "C:\\Users\\Guz_n\\Downloads\\capas\\New folder\\NIngreso.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Guz_n\\Downloads\\capas\\New folder\\NIngreso.cs",
+              "ToolTip": "C:\\Users\\Guz_n\\Downloads\\capas\\New folder\\NIngreso.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Guz_n\\Downloads\\capas\\New folder\\NIngreso.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:57:02.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DIngreso.cs",
+              "DocumentMoniker": "C:\\Users\\Guz_n\\Downloads\\capas\\New folder\\DIngreso.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Guz_n\\Downloads\\capas\\New folder\\DIngreso.cs",
+              "ToolTip": "C:\\Users\\Guz_n\\Downloads\\capas\\New folder\\DIngreso.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Guz_n\\Downloads\\capas\\New folder\\DIngreso.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:56:38.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Ingreso.cs",
+              "DocumentMoniker": "C:\\Users\\Guz_n\\Downloads\\capas\\New folder\\Ingreso.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Guz_n\\Downloads\\capas\\New folder\\Ingreso.cs",
+              "ToolTip": "C:\\Users\\Guz_n\\Downloads\\capas\\New folder\\Ingreso.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Guz_n\\Downloads\\capas\\New folder\\Ingreso.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:55:41.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NRol.cs",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Negocios\\NRol.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocios\\NRol.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Negocios\\NRol.cs",
+              "RelativeToolTip": "Sistema.Negocios\\NRol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:27:04.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\baril\\OneDrive\\Desktop\\Sistema2 (3)\\Sistema2\\Sistema (1)\\Sistema\\Sistema.Presentacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema.Presentacion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T02:40:39.422Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 751,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
