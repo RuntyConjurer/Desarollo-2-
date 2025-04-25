@@ -1,0 +1,16 @@
+E:\c#\Microondas\Microondas\bin\Debug\net8.0-windows\Microondas.exe
+E:\c#\Microondas\Microondas\bin\Debug\net8.0-windows\Microondas.deps.json
+E:\c#\Microondas\Microondas\bin\Debug\net8.0-windows\Microondas.runtimeconfig.json
+E:\c#\Microondas\Microondas\bin\Debug\net8.0-windows\Microondas.dll
+E:\c#\Microondas\Microondas\bin\Debug\net8.0-windows\Microondas.pdb
+E:\c#\Microondas\Microondas\obj\Debug\net8.0-windows\Microondas.Form1.resources
+E:\c#\Microondas\Microondas\obj\Debug\net8.0-windows\Microondas.csproj.GenerateResource.cache
+E:\c#\Microondas\Microondas\obj\Debug\net8.0-windows\Microondas.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Microondas\Microondas\obj\Debug\net8.0-windows\Microondas.AssemblyInfoInputs.cache
+E:\c#\Microondas\Microondas\obj\Debug\net8.0-windows\Microondas.AssemblyInfo.cs
+E:\c#\Microondas\Microondas\obj\Debug\net8.0-windows\Microondas.csproj.CoreCompileInputs.cache
+E:\c#\Microondas\Microondas\obj\Debug\net8.0-windows\Microondas.dll
+E:\c#\Microondas\Microondas\obj\Debug\net8.0-windows\refint\Microondas.dll
+E:\c#\Microondas\Microondas\obj\Debug\net8.0-windows\Microondas.pdb
+E:\c#\Microondas\Microondas\obj\Debug\net8.0-windows\Microondas.genruntimeconfig.cache
+E:\c#\Microondas\Microondas\obj\Debug\net8.0-windows\ref\Microondas.dll
